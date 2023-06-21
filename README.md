@@ -4,8 +4,11 @@ Here you can find a little more information about me:
 
 
 - 🔭 Currently working on NodeJS Tutorial and Projects Course  @ [Udemy](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/)
+  - ⭐ Working on Jobster API: [Jobster API Repository Github](https://github.com/manuelsanchaterres/jobster_api_node_course)
+
 - React 18 Tutorial and Projects Course ( May 2023)
   - ⭐ Ecommerce Project Production: [Ecommerce Comfort Sloth Production Project](https://comfy-store-ecommerce-mst736.netlify.app/) && [Repository Github](https://github.com/manuelsanchaterres/vite-comfy-store-john-smilga)
+  - ⭐ Jobster Jobs Application Manager App: [Jobster App Repository Github](https://github.com/manuelsanchaterres/redux-toolkit-jobster-starter)
 
 - 🌱 I’m currently learning **Nodejs & Expressjs **
 - 👯 I’m looking to collaborate on open source or commercial projects.
