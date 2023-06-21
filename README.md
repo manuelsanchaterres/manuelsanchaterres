@@ -1,11 +1,12 @@
-# Hi! I'm Manuel and I'm currently a self-taught Front and or Back End Web App Developer. 
+# Hi! I'm Manuel and I'm currently a self-taught Front and Back End Web App Developer. 
 
 Here you can find a little more information about me:
 
 
 - 🔭 Currently working on NodeJS Tutorial and Projects Course  @ [Udemy](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/)
-- 4Geeks Academy graduate
-  - ⭐ Final Project: [Chore Manager](https://chore-manager-app.herokuapp.com/)
+- React 18 Tutorial and Projects Course ( May 2023)
+  - ⭐ Ecommerce Project: [Ecommerce Comfort Sloth Project](https://chore-manager-app.herokuapp.com/)
+
 - 🌱 I’m currently learning **Nodejs & Expressjs **
 - 👯 I’m looking to collaborate on open source or commercial projects.
 <!-- - ⚡ Fun fact: I'm an elite-level CrossFit Competitor. -->
@@ -18,6 +19,8 @@ Here you can find a little more information about me:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NodeJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="ExpressJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <!-- <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flask" width="26px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;"  /> -->
@@ -32,7 +35,7 @@ Here you can find a little more information about me:
 
 ### Connect with me:
 
-[![Linkedin: Christian](https://img.shields.io/badge/-Manuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-sancha-terres-developer-web-apps/)](https://www.linkedin.com/in/manuel-sancha-terres-developer-web-apps/)
+[![Linkedin: Manuel](https://img.shields.io/badge/-Manuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-sancha-terres-developer-web-apps/)](https://www.linkedin.com/in/manuel-sancha-terres-developer-web-apps/)
 
 <!--<details>
   <summary>:zap: Recent GitHub Activity</summary> 
@@ -46,7 +49,7 @@ Here you can find a little more information about me:
 
 <summary>:zap: GitHub Stats</summary>
 
-<!-- ![christianmartinroffey's Stats](https://github-readme-stats.vercel.app/api?username=christianmartinroffey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![christianmartinroffey's Streak](https://github-readme-streak-stats.herokuapp.com/?user=christianmartinroffey&theme=vue-dark&hide_border=true) -->
-![manuelsanchaterres's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelsanchaterres&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![manuelsanchaterres's Stats](https://github-readme-stats.vercel.app/api?username=manuelsanchaterres&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+![manuelsanchaterres's Streak](https://github-readme-streak-stats.herokuapp.com/?user=manuelsanchaterres&theme=blue-green&hide_border=true)
+![manuelsanchaterres's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelsanchaterres&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
