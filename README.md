@@ -5,7 +5,7 @@ Here you can find a little more information about me:
 
 - 🔭 Currently working on NodeJS Tutorial and Projects Course  @ [Udemy](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/)
   - ⭐ Jobster API: [Jobster API Repository Github](https://github.com/manuelsanchaterres/jobster_api_node_course)
-[Jobster API Production](https://jobster-api-3m38.onrender.com/landing)
+&& [Jobster API Production](https://jobster-api-3m38.onrender.com/landing)
 
 
 - React 18 Tutorial and Projects Course ( May 2023)
