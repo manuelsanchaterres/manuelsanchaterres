@@ -33,9 +33,10 @@ Here you can find a little more information about me:
 <img align="left" width="26px" alt="devicondev" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <!-- ![express svg background white](./assets/images/svg/express.svg) -->
 <!-- ![express svg background white](assets/images/svg/express.svg) -->
+<img align="left" width="26px" alt="devicondev" src="https://github.com/manuelsanchaterres/manuelsanchaterres/blob/main/assets/images/svg/express.svg" />
 
-![express svg background white](./assets/images/svg/express.svg)
-<img src="./assets/images/svg/express.svg">
+<!-- ![express svg background white](./assets/images/svg/express.svg)
+<img src="./assets/images/svg/express.svg"> -->
 
 <br />
 <br />
