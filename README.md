@@ -1,9 +1,3 @@
-
-<!-- devicons cdn link -->
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-
 # Hi! I'm Manuel and I'm currently a self-taught Front and Back End Web App Developer.
 
 Here you can find a little more information about me:
@@ -37,8 +31,9 @@ Here you can find a little more information about me:
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" width="26px" alt="devicondev" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<p dir="auto" ><i width="26px" alt="devicondev" class="devicon-express-original"></i></p>
-                        
+
+<img align="left" width="26px" alt="devicondev" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+                                  
 
 <br />
 <br />
@@ -47,14 +42,14 @@ Here you can find a little more information about me:
 
 [![Linkedin: Manuel](https://img.shields.io/badge/-Manuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-sancha-terres-developer-web-apps/)](https://www.linkedin.com/in/manuel-sancha-terres-developer-web-apps/)
 
-<!--<details>
-  <summary>:zap: Recent GitHub Activity</summary> 
+<!-- <details>
+  <summary>:zap: Recent GitHub Activity</summary>  -->
   
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity
 
-</details> -->
+<!-- </details> -->
 
 
 <summary>:zap: GitHub Stats</summary>
