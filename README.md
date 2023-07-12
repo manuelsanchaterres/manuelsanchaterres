@@ -1,14 +1,22 @@
-# Hi! I'm Manuel and I'm currently a self-taught Front and Back End Web App Developer. 
+
+<!-- devicons cdn link -->
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+
+# Hi! I'm Manuel and I'm currently a self-taught Front and Back End Web App Developer.
 
 Here you can find a little more information about me:
 
-
-- 🔭 Currently working on NodeJS Tutorial and Projects Course  @ [Udemy](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/)
+          
+- 🔭 NodeJS Tutorial and Projects Course (July 2023) @ [Udemy](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/)
   - ⭐ Jobster API: [Jobster API Repository Github](https://github.com/manuelsanchaterres/jobster_api_node_course)
-&& [Jobster API Production](https://jobster-api-3m38.onrender.com/landing)
+  && [Jobster API Live Full Stack App](https://jobster-api-3m38.onrender.com/landing)
+  - ⭐ Ecommerce API: [Ecommerce API Repository Github](https://github.com/manuelsanchaterres/ecommerce-api)
+  && [Ecommerce API Live Back End ](https://ecommerce-api-nd2i.onrender.com/)
 
 
-- React 18 Tutorial and Projects Course ( May 2023)
+- React 18 Tutorial and Projects Course (June 2023)
   - ⭐ Ecommerce Project Production: [Ecommerce Comfort Sloth Production Project](https://comfy-store-ecommerce-mst736.netlify.app/) && [Repository Github](https://github.com/manuelsanchaterres/vite-comfy-store-john-smilga)
   - ⭐ Jobster Jobs Application Manager App: [Jobster App Repository Github](https://github.com/manuelsanchaterres/redux-toolkit-jobster-starter)
 
@@ -29,7 +37,10 @@ Here you can find a little more information about me:
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" width="26px" alt="devicondev" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
+<i align="left" width="26px" alt="devicondev" class="devicon-express-original"></i>
+                        
 
 <br />
 <br />
