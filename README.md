@@ -50,9 +50,9 @@ Here you can find a little more information about me:
 <!-- </details> -->
 
 
-<summary>:zap: GitHub Stats</summary>
+<!-- <summary>:zap: GitHub Stats</summary>
 
 ![manuelsanchaterres's Stats](https://github-readme-stats.vercel.app/api?username=manuelsanchaterres&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 ![manuelsanchaterres's Streak](https://github-readme-streak-stats.herokuapp.com/?user=manuelsanchaterres&theme=blue-green&hide_border=true)
-![manuelsanchaterres's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelsanchaterres&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+![manuelsanchaterres's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelsanchaterres&theme=blue-green&show_icons=true&hide_border=true&layout=compact) -->
 
