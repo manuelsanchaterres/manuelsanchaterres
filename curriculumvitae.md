@@ -4,7 +4,7 @@
 
 * > __Nombre:__ Manuel Sancha Terres
 * > __Fecha de Nacimiento:__ 23/08/1991
-* > __Dirección:_ Dirección de Prueba
+* > __Dirección:__ Dirección de Prueba
 * > __Email:__ manuelsanchaterres@gmail.com
 * > __Web:__ [Manuel Sancha Terres](https://github.com/manuelsanchaterres)
 
