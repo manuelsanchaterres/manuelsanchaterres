@@ -17,7 +17,7 @@ Here you can find a little more information about me:
 - 🌱 I’m currently learning **Nodejs & Expressjs **
 - 👯 I’m looking to collaborate on open source or commercial projects.
 <!-- - ⚡ Fun fact: I'm an elite-level CrossFit Competitor. -->
-- 📫 How to reach me: [Email](mailto:manuelsanchaterres@gmail.com), [LinkedIn](https://www.linkedin.com/in/manuel-sancha-terres-developer-web-apps/)
+- 📫 How to reach me: [Email](mailto:manuelsanchaterres@gmail.com), [LinkedIn](https://www.linkedin.com/in/manuel-sancha-terres/)
 <!-- - Take a better look at my profile and my current project porfolio here: [Website 🌐](https://cmr-personal-site.onrender.com/) -->
   
 ### Languages and Tools:
