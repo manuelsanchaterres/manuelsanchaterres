@@ -38,7 +38,7 @@ Here you can find a little more information about me:
 
 ### Connect with me:
 
-[![Linkedin: Manuel](https://img.shields.io/badge/-Manuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-sancha-terres-developer-web-apps/)]([https://www.linkedin.com/in/manuel-sancha-terres-developer-web-apps/](https://www.linkedin.com/in/manuel-sancha-terres/)
+[![Linkedin: Manuel](https://img.shields.io/badge/-Manuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-sancha-terres/)](https://www.linkedin.com/in/manuel-sancha-terres/)
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>  -->
